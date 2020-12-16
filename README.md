@@ -1,2 +1,0 @@
-# omi.github.io
-test
